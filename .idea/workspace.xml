@@ -20,17 +20,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="418">
               <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -38,7 +29,7 @@
       <file leaf-file-name="ZuulGatewayApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/ZuulGatewayApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
+            <state relative-caret-position="285">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -50,7 +41,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
+            <state relative-caret-position="323">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
@@ -59,8 +50,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+            <state relative-caret-position="722">
+              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -68,7 +59,7 @@
       <file leaf-file-name="CommonResponse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/vo/CommonResponse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
+            <state relative-caret-position="418">
               <caret line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -92,22 +83,20 @@
       <file leaf-file-name="CommonResponseDataAdvice.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/CommonResponseDataAdvice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
+            <state relative-caret-position="779">
               <caret line="41" selection-end-line="53" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#663#687#0" expanded="true" />
-                <element signature="e#1237#1261#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdException.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AdException.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/exception/AdException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="133">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
                 <element signature="e#116#117#0" expanded="true" />
                 <element signature="e#146#147#0" expanded="true" />
@@ -119,8 +108,20 @@
       <file leaf-file-name="GlobalExceptionAdvice.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/GlobalExceptionAdvice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="342">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebConfiguration.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/conf/WebConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,6 +166,7 @@
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/CommonResponseDataAdvice.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/annotation/IgnoreResponseAdvice.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/exception/AdException.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/conf/WebConfiguration.java" />
       </list>
     </option>
   </component>
@@ -219,9 +221,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="619" />
-    <option name="y" value="8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="666" />
+    <option name="y" value="60" />
     <option name="width" value="762" />
     <option name="height" value="695" />
   </component>
@@ -230,8 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,6 +315,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ad" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zzc-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zzc-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
               <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -332,6 +343,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -487,7 +500,8 @@
       <workItem from="1554123341874" duration="800000" />
       <workItem from="1554124177142" duration="7172000" />
       <workItem from="1554131648242" duration="3042000" />
-      <workItem from="1554353339021" duration="7262000" />
+      <workItem from="1554353339021" duration="11492000" />
+      <workItem from="1554794045700" duration="329000" />
     </task>
     <servers />
   </component>
@@ -497,7 +511,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21022000" />
+    <option name="totallyTimeSpent" value="25581000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -509,7 +523,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="666" y="60" width="762" height="695" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -528,23 +542,23 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32917705" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run Dashboard" order="0" visible="true" weight="0.10620915" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" visible="true" weight="0.11545293" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4991274" weight="0.23316708" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.32917705" />
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.32917705" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13691376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19373219" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -554,6 +568,47 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/annotation/IgnoreResponseAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/CommonResponseDataAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/GlobalExceptionAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/exception/AdException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -572,11 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -629,11 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -693,11 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -733,11 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -766,11 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -792,11 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -841,14 +866,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="418">
           <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/ZuulGatewayApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
+        <state relative-caret-position="285">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -858,26 +883,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
+        <state relative-caret-position="323">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        <state relative-caret-position="722">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/CommonResponseDataAdvice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
+        <state relative-caret-position="779">
           <caret line="41" selection-end-line="53" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#663#687#0" expanded="true" />
-            <element signature="e#1237#1261#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -894,18 +917,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/vo/CommonResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
+        <state relative-caret-position="418">
           <caret line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/GlobalExceptionAdvice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -914,11 +927,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/exception/AdException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="133">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding>
             <element signature="e#116#117#0" expanded="true" />
             <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/GlobalExceptionAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/conf/WebConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
