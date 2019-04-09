@@ -15,6 +15,6 @@ public class WebConfiguration implements WebMvcConfigurer {
 
         converters.clear();
         converters.add(new MappingJackson2HttpMessageConverter());//将java对象转化为json对象
-        
+
     }
 }
