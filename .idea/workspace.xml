@@ -18,29 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/pom.xml">
+      <file leaf-file-name="AdPlanServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/Impl/AdPlanServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommonResponse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/vo/CommonResponse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" selection-end-line="22" />
+            <state relative-caret-position="95">
+              <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,48 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IgnoreResponseAdvice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/annotation/IgnoreResponseAdvice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommonResponseDataAdvice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/CommonResponseDataAdvice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="41" selection-end-line="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/exception/AdException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-              <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GlobalExceptionAdvice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/GlobalExceptionAdvice.java">
+      <file leaf-file-name="CommonUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/utils/CommonUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WebConfiguration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/conf/WebConfiguration.java">
+      <file leaf-file-name="AdUnitServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/Impl/AdUnitServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="-282">
+              <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,20 +54,80 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/pom.xml">
+      <file leaf-file-name="CreativeServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/Impl/CreativeServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="88" column="10" lean-forward="true" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
+            <state relative-caret-position="22">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/resources/application.yml">
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/Impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="347">
+              <caret line="49" column="10" lean-forward="true" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdPlanOPController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/controller/AdPlanOPController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdUnitOPController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/controller/AdUnitOPController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreativeOPController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/controller/CreativeOPController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-114">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserOPController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/controller/UserOPController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreativeType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/constant/CreativeType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -132,7 +137,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -144,29 +151,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/pom.xml" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/java/com/zzc/ad/EurekaApplication.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/pom.xml" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/filter/PreRequestFilter.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/filter/AccessLogFilter.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/ZullGatewayApplication.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/filter/ZuulGatewayApplication.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/pom.xml" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/ZuulGatewayApplication.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/pom.xml" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/vo/advice/CommonResponse.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/vo/CommonResponse.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/vo/advice/CommonResponseDataAdvice.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/GlobalExceptionAdvice.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/CommonResponseDataAdvice.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/annotation/IgnoreResponseAdvice.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/exception/AdException.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/conf/WebConfiguration.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/pom.xml" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/pom.xml" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/SponsorApplication.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/constant/CommonStatus.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/AdUser.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/AdPlan.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/AdUnit.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/Creative.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/unit_condition/AdUnitKeyword.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/unit_condition/AdUnitIt.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/unit_condition/CreativeUnit.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/unit_condition/AdUnitDistrict.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/AdPlanRepository.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/AdUnitRepository.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/AdUserRepository.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/CreativeRepository.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/unit_condition/AdUnitItRepository.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/unit_condition/AdUnitDistrictRepository.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/unit_condition/AdUnitKeywordRepository.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/unit_condition/CreativeUnitRepository.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/IAdPlanService.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/IAdUnitService.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/ICreativeService.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdPlanGetRequest.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdPlanRequest.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdPlanResponse.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitDistrictRequest.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitDistrictResponse.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitItRequest.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitItResponse.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitKeywordRequest.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitKeywordResponse.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitRequest.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitResponse.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/CreateUserRequest.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/CreateUserResponse.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/CreativeRequest.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/CreativeResponse.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/CreativeUnitRequest.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/CreativeUnitResponse.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/constant/CreativeMetrialType.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/constant/CreativeType.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/utils/CommonUtils.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/Impl/AdPlanServiceImpl.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/Impl/AdUnitServiceImpl.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/Impl/CreativeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/Impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/controller/AdPlanOPController.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/controller/AdUnitOPController.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/controller/CreativeOPController.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/controller/UserOPController.java" />
       </list>
     </option>
   </component>
@@ -222,10 +257,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="495" />
-    <option name="y" value="35" />
+    <option name="x" value="639" />
+    <option name="y" value="36" />
     <option name="width" value="843" />
-    <option name="height" value="695" />
+    <option name="height" value="723" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -272,6 +307,81 @@
               <item name="ad-sponsor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zzc-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zzc-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-sponsor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zzc-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zzc-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-sponsor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zzc-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zzc-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-sponsor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zzc-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zzc-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-sponsor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zzc-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zzc-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-sponsor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="Impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zzc-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zzc-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-sponsor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zzc-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zzc-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc-ad-service" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-sponsor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -294,6 +404,15 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\zsc-ad-service\ad-sponsor\src\main\java\com\zsc\ad\controller" />
+      <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\zsc-ad-service\ad-sponsor\src\main\java\com\zsc\ad\utils" />
+      <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\zsc-ad-service\ad-sponsor\src\main\java\com\zsc\ad\service\Impl" />
+      <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\zsc-ad-service\ad-sponsor\src\main\java\com\zsc\ad\service" />
+      <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\zsc-ad-service\ad-sponsor\src\main\java\com\zsc\ad\vo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
@@ -436,7 +555,7 @@
       <workItem from="1554124177142" duration="7172000" />
       <workItem from="1554131648242" duration="3042000" />
       <workItem from="1554353339021" duration="11492000" />
-      <workItem from="1554794045700" duration="3588000" />
+      <workItem from="1554794045700" duration="11569000" />
     </task>
     <servers />
   </component>
@@ -446,7 +565,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28840000" />
+    <option name="totallyTimeSpent" value="36821000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,11 +577,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="617" y="23" width="843" height="695" extended-state="0" />
+    <frame x="639" y="36" width="843" height="723" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5019157" side_tool="true" visible="true" weight="0.11545293" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5019157" side_tool="true" visible="true" weight="0.10998308" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.5401396" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
@@ -477,12 +596,12 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32917705" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run Dashboard" order="0" sideWeight="0.49808428" visible="true" weight="0.11545293" />
+      <window_info anchor="bottom" id="Run Dashboard" order="0" sideWeight="0.49808428" visible="true" weight="0.10998308" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4991274" weight="0.23316708" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.32917705" />
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.32917705" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22094509" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2899106" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -503,385 +622,447 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/GlobalExceptionAdvice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/exception/AdException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/java/com/zzc/ad/EurekaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/ZuulGatewayApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/java/com/zzc/ad/EurekaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/filter/PreRequestFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/filter/AccessLogFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/ZuulGatewayApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/java/com/zzc/ad/EurekaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/java/com/zzc/ad/EurekaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/java/com/zzc/ad/EurekaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/src/main/java/com/zzc/ad/EurekaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/BaiduyunDownload/038 基于SpringCloud 微服务架构 广告系统设计与实现/Imooc-Ad-master/imooc-ad/chapter-3/imooc-ad-spring-cloud/ad-gateway/src/main/java/com/imooc/ad/ZuulGatewayApplication.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/ZullGatewayApplication.java" />
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/filter/AccessLogFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="38" column="19" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/filter/PreRequestFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-gateway/src/main/java/com/zzc/ad/ZuulGatewayApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/CommonResponseDataAdvice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/annotation/IgnoreResponseAdvice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/vo/CommonResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/exception/AdException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/advice/GlobalExceptionAdvice.java">
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/constant/CommonStatus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/src/main/java/com/zsc/ad/conf/WebConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/AdPlan.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        <state relative-caret-position="355">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-common/pom.xml">
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/AdUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/AdUnit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="27" />
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/pom.xml">
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/Creative.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="88" column="10" lean-forward="true" selection-start-line="88" selection-start-column="10" selection-end-line="88" selection-end-column="10" />
+        <state relative-caret-position="350">
+          <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/unit_condition/AdUnitKeyword.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="236">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/unit_condition/AdUnitIt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/unit_condition/CreativeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/entity/unit_condition/AdUnitDistrict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/BaiduyunDownload/038 基于SpringCloud 微服务架构 广告系统设计与实现/Imooc-Ad-master/imooc-ad/chapter-5/ad-sponsor/src/main/java/com/imooc/ad/dao/AdUnitRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" selection-start-line="12" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/AdPlanRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/AdUnitRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/AdUserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/CreativeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/unit_condition/AdUnitKeywordRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/unit_condition/AdUnitDistrictRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="83" selection-start-line="5" selection-start-column="83" selection-end-line="5" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/unit_condition/AdUnitItRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="74" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/dao/unit_condition/CreativeUnitRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/ICreativeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/IAdUnitService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/IAdPlanService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdPlanGetRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdPlanRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdPlanResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitDistrictRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitDistrictResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitItRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitItResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitKeywordRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitKeywordResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/AdUnitResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/CreateUserRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/CreateUserResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/CreativeRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/CreativeResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/CreativeUnitRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/vo/CreativeUnitResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/constant/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/constant/CreativeMetrialType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/constant/CreativeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/Impl/AdUnitServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282">
+          <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/Impl/CreativeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/controller/AdUnitOPController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/controller/CreativeOPController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/controller/UserOPController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/Impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="49" column="10" lean-forward="true" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/utils/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/controller/AdPlanOPController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/main/java/com/zsc/ad/service/Impl/AdPlanServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="35" column="13" lean-forward="true" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
