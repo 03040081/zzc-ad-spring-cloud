@@ -21,6 +21,12 @@ public class AdUnitOPController {
         this.adUnitService = adUnitService;
     }
 
+    /**
+     * 创建推广单元
+     * @param request
+     * @return
+     * @throws AdException
+     */
     @PostMapping("/create/adUnit")
     public AdUnitResponse createUnit(
             @RequestBody AdUnitRequest request) throws AdException {
@@ -29,6 +35,12 @@ public class AdUnitOPController {
         return adUnitService.createUnit(request);
     }
 
+    /**
+     * 创建推广单元关键字
+     * @param request
+     * @return
+     * @throws AdException
+     */
     @PostMapping("/create/unitKeyword")
     public AdUnitKeywordResponse createUnitKeyword(
             @RequestBody AdUnitKeywordRequest request
@@ -38,6 +50,12 @@ public class AdUnitOPController {
         return adUnitService.createUnitKeyword(request);
     }
 
+    /**
+     * 推广单元ID
+     * @param request
+     * @return
+     * @throws AdException
+     */
     @PostMapping("/create/unitIt")
     public AdUnitItResponse createUnitIt(
             @RequestBody AdUnitItRequest request
@@ -47,6 +65,12 @@ public class AdUnitOPController {
         return adUnitService.createUnitIt(request);
     }
 
+    /**
+     * 推广单元限制
+     * @param request
+     * @return
+     * @throws AdException
+     */
     @PostMapping("/create/unitDistrict")
     public AdUnitDistrictResponse createUnitDistrict(
             @RequestBody AdUnitDistrictRequest request
