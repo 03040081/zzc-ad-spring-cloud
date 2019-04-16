@@ -12,6 +12,7 @@
         <module>ad-eureka</module>
         <module>ad-gateway</module>
         <module>zsc-ad-service</module>
+        <module>ad-search</module>
     </modules>
 
     <name>zzc-ad-spring-cloud</name>
