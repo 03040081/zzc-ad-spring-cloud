@@ -81,10 +81,11 @@
             <version>1.9</version>
         </dependency>
         <!-- 集合类操作 -->
+        <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-collections4 -->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-collections4</artifactId>
-            <version>4.0</version>
+            <version>4.3</version>
         </dependency>
         <!-- binlog 监听与解析: https://github.com/shyiko/mysql-binlog-connector-java -->
         <dependency>
