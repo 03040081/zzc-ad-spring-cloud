@@ -17,8 +17,19 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @Component
-@DependsOn("dataTable")
+@DependsOn("dataTable")//依赖dataTable这个bean
 public class IndexFileLoader {
+
+    private List<String> loadDumpData(String fileName) {
+
+        try (BufferedReader br = Files.newBufferedReader(
+                Paths.get(fileName)
+        )) {
+            return br.lines().collect(Collectors.toList());
+        } catch (IOException ex) {
+            throw new RuntimeException(ex.getMessage());
+        }
+    }
 
     @PostConstruct
     public void init() {
@@ -94,14 +105,4 @@ public class IndexFileLoader {
         ));
     }
 
-    private List<String> loadDumpData(String fileName) {
-
-        try (BufferedReader br = Files.newBufferedReader(
-                Paths.get(fileName)
-        )) {
-            return br.lines().collect(Collectors.toList());
-        } catch (IOException ex) {
-            throw new RuntimeException(ex.getMessage());
-        }
-    }
 }
