@@ -14,8 +14,16 @@ public class ParseTemplate {
 
     private String database;
 
+    //key 表的名称 param 表的所有的表的属性、层级属性的表达
     private Map<String, TableTemplate> tableTemplateMap = new HashMap<>();
 
+    /**
+     * @Description: 〈Template 解析〉
+     * @Author: zzc
+     * @Date: 2019/4/19 23:54
+     * @Param:
+     * @Return:
+     */
     public static ParseTemplate parse(Template _template) {
 
         ParseTemplate template = new ParseTemplate();
