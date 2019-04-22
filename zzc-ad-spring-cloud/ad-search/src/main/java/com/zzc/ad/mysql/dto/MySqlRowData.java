@@ -9,6 +9,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 简化BinlogRowData
+ * 用于增量数据的投递
+ */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
@@ -18,6 +22,7 @@ public class MySqlRowData {
 
     private String level;
 
+    //将EvenType转换为OpType
     private OpType opType;
 
     private List<Map<String, String>> fieldValueMap = new ArrayList<>();

@@ -33,6 +33,10 @@ public class TemplateHolder {
         this.jdbcTemplate = jdbcTemplate;
     }
 
+    /**
+     * 当TemplateHolder被容器加载之后就会执行
+     * 被@PostConstruct修饰的方法会在服务器加载Servlet的时候运行，并且只会被服务器调用一次，类似于Servlet的inti()方法。
+     */
     @PostConstruct
     private void init() {
         loadJson("template.json");
@@ -61,10 +65,13 @@ public class TemplateHolder {
         }
     }
 
+    /**
+     * @Description: 〈实现查询模板中每张表的信息〉
+     * @Author: zzc
+     */
     private void loadMeta() {
 
-        for (Map.Entry<String, TableTemplate> entry :
-                template.getTableTemplateMap().entrySet()) {
+        for (Map.Entry<String, TableTemplate> entry : template.getTableTemplateMap().entrySet()) {
 
             TableTemplate table = entry.getValue();
 

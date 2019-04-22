@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39b3b32f-69b3-4136-8493-a8688ebdb6dd" name="Default" comment="网关配置">
+      <change afterPath="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/constant/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/listener/AggregationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/listener/Ilistener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/ParseTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/ParseTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/TemplateHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/TemplateHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/constant/OpType.java" beforeDir="false" afterPath="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/constant/OpType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/MySqlRowData.java" beforeDir="false" afterPath="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/MySqlRowData.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/zzc-ad-spring-cloud/target/" />
@@ -22,53 +27,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="IndexFileLoader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/index/IndexFileLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-570">
-              <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinLogServiceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/service/BinLogServiceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/resources/template.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2432">
-              <caret line="128" selection-start-line="128" selection-end-line="128" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BinlogRowData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/BinlogRowData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JsonTable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/JsonTable.java">
+      <file leaf-file-name="OpType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/constant/OpType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="192">
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constant.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/constant/Constant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="104" column="7" lean-forward="true" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,8 +60,8 @@
       <file leaf-file-name="MySqlRowData.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/MySqlRowData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="306">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,14 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParseTemplate.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/ParseTemplate.java">
+      <file leaf-file-name="AggregationListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/listener/AggregationListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="71" column="68" lean-forward="true" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="68" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-74">
+              <caret line="151" column="64" selection-start-line="151" selection-start-column="64" selection-end-line="151" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -103,26 +81,53 @@
       <file leaf-file-name="TableTemplate.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/TableTemplate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Template.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/Template.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataTable.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/index/DataTable.java">
+      <file leaf-file-name="WriteRowsEventData.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/com/github/shyiko/mysql-binlog-connector-java/0.13.0/mysql-binlog-connector-java-0.13.0-sources.jar!/com/github/shyiko/mysql/binlog/event/WriteRowsEventData.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ilistener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/listener/Ilistener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TemplateHolder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/TemplateHolder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1041#1042#0" expanded="true" />
+                <element signature="e#1089#1090#0" expanded="true" />
+                <element signature="e#1135#1136#0" expanded="true" />
+                <element signature="e#1176#1177#0" expanded="true" />
+                <element signature="e#1231#1232#0" expanded="true" />
+                <element signature="e#1299#1300#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseTemplate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/ParseTemplate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -156,11 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/client/vo/AdPlanGetRequest.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/SearchApplication.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/client/SponsorClientHystrix.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/controller/SearchController.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/client/SponsorClient.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/index/adplan/AdPlanIndex.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/index/adplan/AdPlanObject.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/index/adunit/AdUnitConstants.java" />
@@ -195,7 +195,6 @@
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/test/resources/application.yml" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/test/java/com/zzc/ad/service/DumDataService.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/test/java/com/zzc/ad/service/DumpDataService.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/constant/OpType.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/handler/AdLevelDataHandler.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/index/DataTable.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/index/IndexFileLoader.java" />
@@ -203,10 +202,16 @@
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/resources/template.json" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/BinlogRowData.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/Template.java" />
-        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/MySqlRowData.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/TableTemplate.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/JsonTable.java" />
         <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/ParseTemplate.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/TemplateHolder.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/listener/IncrementListener.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/listener/Ilistener.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/listener/AggregationListener.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/MySqlRowData.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/constant/OpType.java" />
+        <option value="$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/constant/Constant.java" />
       </list>
     </option>
   </component>
@@ -335,7 +340,29 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ad" type="462c0819:PsiDirectoryNode" />
               <item name="mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="constant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zzc-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zzc-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
               <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zzc-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zzc-ad-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="ad-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ad" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zzc-ad-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
@@ -463,11 +490,11 @@
       <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\zsc-ad-service\ad-sponsor\src\test\java" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\ad-search\src\main\java\com\zzc\ad\mysql\constant" />
+      <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\ad-search\src\main\java\com\zzc\ad\mysql\listener" />
+      <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\ad-search\src\main\java\com\zzc\ad\mysql" />
       <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\ad-search\src\main\java\com\zzc\ad\mysql\dto" />
       <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\zsc-ad-service\ad-sponsor\src\test\resources" />
-      <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\ad-search\src\main\java\com\zzc\ad\utils" />
-      <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\ad-search\src\main\java\com\zzc\ad\index" />
-      <recent name="D:\Workspaces\IDEA\advertisement\zzc-ad-spring-cloud\ad-search\src\main\java\com\zzc\ad\client" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -626,7 +653,7 @@
       <workItem from="1554353339021" duration="11492000" />
       <workItem from="1554794045700" duration="15816000" />
       <workItem from="1555075503388" duration="595000" />
-      <workItem from="1555258883129" duration="36217000" />
+      <workItem from="1555258883129" duration="47224000" />
     </task>
     <servers />
   </component>
@@ -636,7 +663,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77880000" />
+    <option name="totallyTimeSpent" value="88887000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,82 +725,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="网关配置" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/client/SponsorClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="17" column="51" lean-forward="true" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/Supplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-783">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/SearchApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1037#1038#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/index/adplan/AdPlanIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/index/adplan/AdPlanObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/index/adunit/AdUnitConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/index/adunit/AdUnitIndex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1015,13 +966,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/constant/OpType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/zsc-ad-service/ad-sponsor/src/test/java/com/zzc/ad/service/DumpDataService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1079,44 +1023,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/service/BinLogServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/resources/template.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2432">
-          <caret line="128" selection-start-line="128" selection-end-line="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/MySqlRowData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/BinlogRowData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="57">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/JsonTable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="173">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1125,22 +1042,131 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/Template.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/service/BinLogServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/github/shyiko/mysql-binlog-connector-java/0.13.0/mysql-binlog-connector-java-0.13.0-sources.jar!/com/github/shyiko/mysql/binlog/BinaryLogClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="1162" column="24" lean-forward="true" selection-start-line="1162" selection-start-column="24" selection-end-line="1162" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/github/shyiko/mysql-binlog-connector-java/0.13.0/mysql-binlog-connector-java-0.13.0-sources.jar!/com/github/shyiko/mysql/binlog/event/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/listener/IncrementListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/listener/Ilistener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/TableTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="323">
+          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/github/shyiko/mysql-binlog-connector-java/0.13.0/mysql-binlog-connector-java-0.13.0-sources.jar!/com/github/shyiko/mysql/binlog/event/WriteRowsEventData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/TemplateHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1089#1090#0" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+            <element signature="e#1231#1232#0" expanded="true" />
+            <element signature="e#1299#1300#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/ParseTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="71" column="68" lean-forward="true" selection-start-line="71" selection-start-column="68" selection-end-line="71" selection-end-column="68" />
+        <state relative-caret-position="2">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/listener/AggregationListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="151" column="64" selection-start-line="151" selection-start-column="64" selection-end-line="151" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/MySqlRowData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/github/shyiko/mysql-binlog-connector-java/0.13.0/mysql-binlog-connector-java-0.13.0-sources.jar!/com/github/shyiko/mysql/binlog/event/EventType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3268">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/dto/BinlogRowData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/constant/OpType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zzc-ad-spring-cloud/ad-search/src/main/java/com/zzc/ad/mysql/constant/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="104" column="7" lean-forward="true" selection-start-line="104" selection-start-column="7" selection-end-line="104" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
