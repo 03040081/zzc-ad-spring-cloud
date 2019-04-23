@@ -8,6 +8,15 @@ import com.github.shyiko.mysql.binlog.event.WriteRowsEventData;
 
 import java.io.IOException;
 
+/**
+ * WriteRowsEventData{tableId=83, includedColumns={0, 1, 2, 3, 4, 5, 6, 7}, rows=[
+ *     [12, 12, 第三个推广计划, 1,
+ *     Tue Apr 23 23:32:39 CST 2019,
+ *     Tue Apr 23 23:32:39 CST 2019,
+ *     Tue Apr 23 23:32:39 CST 2019,
+ *     Tue Apr 23 23:32:39 CST 2019]
+ * ]}
+ */
 public class BinLogServiceTest {
 
     public static void main(String[] args) throws IOException {
