@@ -1,7 +1,7 @@
 package com.zzc.ad.dump;
 
 public class DConstant {
-    public static final String DATA_ROOT_DIR = "/Users/zzc/mysql_data/";
+    public static final String DATA_ROOT_DIR = "D:/Workspaces/IDEA/advertisement/mysql_data/";
 
     // 各个表数据的存储文件名
     //推广计划
