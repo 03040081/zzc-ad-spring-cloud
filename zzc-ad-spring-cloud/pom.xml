@@ -11,7 +11,7 @@
     <modules>
         <module>ad-eureka</module>
         <module>ad-gateway</module>
-        <module>zsc-ad-service</module>
+        <module>zzc-ad-service</module>
         <module>ad-search</module>
     </modules>
 

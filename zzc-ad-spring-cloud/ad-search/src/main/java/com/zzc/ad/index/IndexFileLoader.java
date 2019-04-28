@@ -1,8 +1,8 @@
 package com.zzc.ad.index;
 
 import com.alibaba.fastjson.JSON;
-import com.zsc.ad.dump.DConstant;
-import com.zsc.ad.dump.table.*;
+import com.zzc.ad.dump.DConstant;
+import com.zzc.ad.dump.table.*;
 import com.zzc.ad.handler.AdLevelDataHandler;
 import com.zzc.ad.mysql.constant.OpType;
 import org.springframework.context.annotation.DependsOn;

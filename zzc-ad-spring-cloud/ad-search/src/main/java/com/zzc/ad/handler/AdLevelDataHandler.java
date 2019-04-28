@@ -1,7 +1,7 @@
 package com.zzc.ad.handler;
 
 import com.alibaba.fastjson.JSON;
-import com.zsc.ad.dump.table.*;
+import com.zzc.ad.dump.table.*;
 import com.zzc.ad.index.DataTable;
 import com.zzc.ad.index.IndexAware;
 import com.zzc.ad.index.adplan.AdPlanIndex;

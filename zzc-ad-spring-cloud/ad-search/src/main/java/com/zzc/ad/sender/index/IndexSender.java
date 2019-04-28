@@ -1,7 +1,7 @@
 package com.zzc.ad.sender.index;
 
 import com.alibaba.fastjson.JSON;
-import com.zsc.ad.dump.table.*;
+import com.zzc.ad.dump.table.*;
 import com.zzc.ad.handler.AdLevelDataHandler;
 import com.zzc.ad.index.DataLevel;
 import com.zzc.ad.mysql.constant.Constant;

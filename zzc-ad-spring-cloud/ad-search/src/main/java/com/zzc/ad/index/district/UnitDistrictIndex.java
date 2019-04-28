@@ -1,8 +1,8 @@
 package com.zzc.ad.index.district;
 
 import com.zzc.ad.index.IndexAware;
+import com.zzc.ad.search.vo.feature.DistrictFeature;
 import com.zzc.ad.utils.CommonUtils;
-import com.zzc.ad.vo.feature.DistrictFeature;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.collections4.CollectionUtils;
 import org.springframework.stereotype.Component;

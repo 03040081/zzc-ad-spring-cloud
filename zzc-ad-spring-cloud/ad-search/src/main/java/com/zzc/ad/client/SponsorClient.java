@@ -1,6 +1,6 @@
 package com.zzc.ad.client;
 
-import com.zsc.ad.vo.CommonResponse;
+import com.zzc.ad.vo.CommonResponse;
 import com.zzc.ad.client.vo.AdPlan;
 import com.zzc.ad.client.vo.AdPlanGetRequest;
 import org.springframework.cloud.openfeign.FeignClient;
